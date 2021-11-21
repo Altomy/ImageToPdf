@@ -176,7 +176,13 @@ let Home: React.FC<propsTypes> = (props) => {
           ></AdMobBanner>
         )}
       </Box>
-      <Box position={"absolute"} left={0} bottom={0} width="100%">
+      <Box
+        position={"absolute"}
+        left={0}
+        bottom={0}
+        width="100%"
+        style={{ elevation: 3, zIndex: 101 }}
+      >
         <Box
           alignItems={"center"}
           flexDir={"row"}
@@ -225,7 +231,11 @@ let Home: React.FC<propsTypes> = (props) => {
             toggleShow();
           }}
         >
-          <Box height={height / 1.2} width="100%">
+          <Box
+            height={height / 1.2}
+            width="100%"
+            style={{ elevation: 4, zIndex: 101 }}
+          >
             <Options
               onSave={() => {
                 toggleShow();

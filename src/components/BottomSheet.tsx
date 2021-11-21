@@ -89,6 +89,7 @@ let BottomSheet: React.FC<propsTypes> = (props) => {
       width="100%"
       overflow={"visible"}
       zIndex={102}
+      style={{ elevation: 4 }}
       {...props.absoluteStyles}
     >
       <Box
