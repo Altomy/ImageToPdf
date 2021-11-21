@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>967716850492-o68lsv4iet47mkuaeonunhq3o5j0kjlf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.967716850492-o68lsv4iet47mkuaeonunhq3o5j0kjlf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrZCGvkJ7-khCFj4kzgIwOtxeuzMRew-4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>967716850492</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.imgtopdf.plus</string>
+	<key>PROJECT_ID</key>
+	<string>imagetopdf-712d8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>imagetopdf-712d8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:967716850492:ios:99f67fd93fdf7276986c39</string>
+</dict>
+</plist>
