@@ -1,0 +1,57 @@
+{
+  "translation": {
+    "dir": "ltr",
+    "home": {
+      "title": "Convertir des images au format PDF",
+      "selectImage": "Sélectionnez l’image",
+      "createPdf": "Créer un PDF",
+      "options": "Options",
+      "optionsPage": {
+        "imageSlice": "Tranches d’image",
+        "sliceImageInPages": "Découper l’image dans les pages",
+        "withoutSlice": "Sans tranches",
+        "imageSizeType": "Type de taille d’image",
+        "fixImageSize": "Correction de la taille de l’image",
+        "fullPage": "Pleine page",
+        "normalImageSize": "Taille normale de l’image",
+        "imagePadding": "Remplissage d’image",
+        "left": "Gauche",
+        "top": "Retour au début",
+        "right": "Droite",
+        "bottom": "Fond",
+        "save": "Sauvegarder"
+      },
+      "sidePanel": {
+        "settings": "Paramètres",
+        "language": "Traduction",
+        "aboutUs": "Qui sommes-nous",
+        "callUs": "Appelez-nous"
+      }
+    },
+    "result": {
+      "back": "none",
+      "preview": "Aperçu",
+      "save": "Sauvegarder",
+      "share": "Partager"
+    },
+    "callUs": {
+      "callUs": "Appelez-nous",
+      "title": "Appelez-nous",
+      "sendDirectMessageToUs": "Envoyez-nous un message direct",
+      "name": "Nom",
+      "phone": "Numéro de téléphone",
+      "message": "Message",
+      "send": "Send",
+      "errorPleaseTryAgainLater": "Erreur, Veuillez réessayer plus tard.",
+      "sendMessageSuccess": "Envoyer un message avec succès",
+      "weHaveYourMessage": "Nous avons votre message, nous vous contactons aussi rapidement que possible"
+    },
+    "formBuilder": {
+      "require": "Ce champ obligatoire"
+    },
+    "language": {
+      "title": "Sélectionner une langue",
+      "back": "Traduction"
+    }
+  }
+}

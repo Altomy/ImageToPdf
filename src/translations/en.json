@@ -1,0 +1,57 @@
+{
+  "translation": {
+    "dir": "ltr",
+    "home": {
+      "title": "Convert images to PDF",
+      "selectImage": "Select Image",
+      "createPdf": "Create PDF",
+      "options": "Options",
+      "optionsPage": {
+        "imageSlice": "Image Slices",
+        "sliceImageInPages": "Slice image in pages",
+        "withoutSlice": "Without slices",
+        "imageSizeType": "Image size type",
+        "fixImageSize": "Fix image size",
+        "fullPage": "Full page",
+        "normalImageSize": "Normal Image Size",
+        "imagePadding": "Image Padding",
+        "left": "Left",
+        "top": "Top",
+        "right": "Right",
+        "bottom": "Bottom",
+        "save": "Save"
+      },
+      "sidePanel": {
+        "settings": "Settings",
+        "language": "Languages",
+        "aboutUs": "About Us",
+        "callUs": "Call us"
+      }
+    },
+    "result": {
+      "back": "none",
+      "preview": "Preview",
+      "save": "Save",
+      "share": "Share"
+    },
+    "callUs": {
+      "callUs": "Call us",
+      "title": "Call us",
+      "sendDirectMessageToUs": "Send direct message to us",
+      "name": "Name",
+      "phone": "Phone number",
+      "message": "Message",
+      "send": "Send",
+      "errorPleaseTryAgainLater": "Error, Please try again later.",
+      "sendMessageSuccess": "Send message success",
+      "weHaveYourMessage": "We have your message, we well contact you faster as we can"
+    },
+    "formBuilder": {
+      "require": "This field required"
+    },
+    "language": {
+      "title": "Select Language",
+      "back": "Languages"
+    }
+  }
+}

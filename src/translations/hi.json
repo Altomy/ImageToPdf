@@ -1,0 +1,57 @@
+{
+  "translation": {
+    "dir": "ltr",
+    "home": {
+      "title": "छवियों को PDf में परिवर्तित करें",
+      "selectImage": "इमेज चुनें",
+      "createPdf": "पीडीएफ बनाएं",
+      "options": "विकल्प",
+      "optionsPage": {
+        "imageSlice": "इमेज स्लाइस",
+        "sliceImageInPages": "पृष्ठों में स्लाइस छवि",
+        "withoutSlice": "स्लाइस के बिना",
+        "imageSizeType": "छवि आकार प्रकार",
+        "fixImageSize": "इमेज साइज ठीक करें",
+        "fullPage": "पूरा पेज",
+        "normalImageSize": "सामान्य छवि आकार",
+        "imagePadding": "छवि पैडिंग",
+        "left": "बाएँ",
+        "top": "लट्टू",
+        "right": "दाएँ",
+        "bottom": "नीचे",
+        "save": "रक्षा कर"
+      },
+      "sidePanel": {
+        "settings": "सेटिंग्स",
+        "language": "भाषाओं",
+        "aboutUs": "हमारे बारे में",
+        "callUs": "हमें बुलाओ"
+      }
+    },
+    "result": {
+      "back": "none",
+      "preview": "पूर्वदर्शन",
+      "save": "रक्षा कर",
+      "share": "हिस्सा"
+    },
+    "callUs": {
+      "callUs": "हमें बुलाओ",
+      "title": "हमें बुलाओ",
+      "sendDirectMessageToUs": "हमें सीधे संदेश भेजें",
+      "name": "नाम",
+      "phone": "फोन संख्या",
+      "message": "संदेश",
+      "send": "भेजना",
+      "errorPleaseTryAgainLater": "त्रुटि, कृपया बाद में फिर से प्रयास करें।",
+      "sendMessageSuccess": "संदेश सफलता भेजें",
+      "weHaveYourMessage": "हमारे पास आपका संदेश है, हम अच्छी तरह से आपसे संपर्क कर सकते हैं"
+    },
+    "formBuilder": {
+      "require": "इस फ़ील्ड की आवश्यकता"
+    },
+    "language": {
+      "title": "भाषा का चयन करें",
+      "back": "भाषाओं"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "translation": {
+    "dir": "ltr",
+    "home": {
+      "title": "Görüntüleri PDf'ye dönüştürme",
+      "selectImage": "Resim Seç",
+      "createPdf": "PDF Oluştur",
+      "options": "Seçenekler",
+      "optionsPage": {
+        "imageSlice": "Resim Dilimleri",
+        "sliceImageInPages": "Resim sayfalarda dilimleme",
+        "withoutSlice": "Dilimler olmadan",
+        "imageSizeType": "Görüntü boyutu türü",
+        "fixImageSize": "Görüntü boyutunu düzeltme",
+        "fullPage": "Tam sayfa",
+        "normalImageSize": "Normal Görüntü Boyutu",
+        "imagePadding": "Resim Doldurma",
+        "left": "Sol",
+        "top": "Sayfanın Üstü",
+        "right": "Sağ",
+        "bottom": "Dip",
+        "save": "kurtarmak"
+      },
+      "sidePanel": {
+        "settings": "Ayarlar",
+        "language": "Diller",
+        "aboutUs": "Hakkımızda",
+        "callUs": "Bizi arayın"
+      }
+    },
+    "result": {
+      "back": "none",
+      "preview": "Önizleme",
+      "save": "kurtarmak",
+      "share": "Paylaş"
+    },
+    "callUs": {
+      "callUs": "Bizi arayın",
+      "title": "Bizi arayın",
+      "sendDirectMessageToUs": "Bize doğrudan mesaj gönderin",
+      "name": "Ad",
+      "phone": "Telefon numarası",
+      "message": "İleti",
+      "send": "Gönder",
+      "errorPleaseTryAgainLater": "Hata, Lütfen daha sonra yeniden deneyin.",
+      "sendMessageSuccess": "İleti başarısı gönder",
+      "weHaveYourMessage": "Mesajınız var, sizinle elimizden gelen en hızlı şekilde iletişime geçiyoruz"
+    },
+    "formBuilder": {
+      "require": "Bu alan gerekli"
+    },
+    "language": {
+      "title": "Dil seçin",
+      "back": "Diller"
+    }
+  }
+}

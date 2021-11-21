@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "img-pdf",
+    "slug": "imgpdf",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f87171"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.imgtopdf.plussoftjo",
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-8749426160957410~7117850846"
+      },
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#f87171"
+      },
+      "package": "com.imgtopdf.plus",
+      "versionCode": 1,
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-8749426160957410~5159763731"
+      },
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-tracking-transparency",
+        {
+          "userTrackingPermission": "This identifier will be used to deliver personalized ads to you."
+        }
+      ]
+    ],
+    "jsEngine": "hermes"
+  }
+}

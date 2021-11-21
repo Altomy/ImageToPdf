@@ -1,0 +1,57 @@
+{
+  "translation": {
+    "dir": "ltr",
+    "home": {
+      "title": "Convertir imágenes a PDF",
+      "selectImage": "Seleccionar imagen",
+      "createPdf": "Crear PDF",
+      "options": "Opciones",
+      "optionsPage": {
+        "imageSlice": "Sectores de imagen",
+        "sliceImageInPages": "Dividir imagen en páginas",
+        "withoutSlice": "Sin rodajas",
+        "imageSizeType": "Tipo de tamaño de imagen",
+        "fixImageSize": "Corregir el tamaño de la imagen",
+        "fullPage": "Página completa",
+        "normalImageSize": "Tamaño normal de la imagen",
+        "imagePadding": "Relleno de imágenes",
+        "left": "Izquierda",
+        "top": "Arriba",
+        "right": "Correcto",
+        "bottom": "Fondo",
+        "save": "Salvar"
+      },
+      "sidePanel": {
+        "settings": "Configuración",
+        "language": "Idiomas",
+        "aboutUs": "Sobre nosotros",
+        "callUs": "Llámanos"
+      }
+    },
+    "result": {
+      "back": "none",
+      "preview": "Vista previa",
+      "save": "Salvar",
+      "share": "Compartir"
+    },
+    "callUs": {
+      "callUs": "Llámanos",
+      "title": "Llámanos",
+      "sendDirectMessageToUs": "Envíanos un mensaje directo",
+      "name": "Nombre",
+      "phone": "Número de teléfono",
+      "message": "Men",
+      "send": "Enviar",
+      "errorPleaseTryAgainLater": "Error, inténtelo de nuevo más tarde.",
+      "sendMessageSuccess": "Envié el mensaje con éxito.",
+      "weHaveYourMessage": "Tenemos su mensaje, nos ponemos en contacto con usted más rápido como podemos"
+    },
+    "formBuilder": {
+      "require": "Este campo requerido"
+    },
+    "language": {
+      "title": "Seleccionar idioma",
+      "back": "Idiomas"
+    }
+  }
+}

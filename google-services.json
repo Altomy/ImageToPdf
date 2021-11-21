@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "967716850492",
+    "project_id": "imagetopdf-712d8",
+    "storage_bucket": "imagetopdf-712d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967716850492:android:5c95d66800408545986c39",
+        "android_client_info": {
+          "package_name": "com.imgtopdf.plussoftjo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967716850492-bikr604er9qv9lh3hkrsuvolpp0os2jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7-tBe7edVlKPY6FkmDNiKMNp_gXDGDbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967716850492-bikr604er9qv9lh3hkrsuvolpp0os2jn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967716850492-o68lsv4iet47mkuaeonunhq3o5j0kjlf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.imgtopdf.plus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

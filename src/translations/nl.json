@@ -1,0 +1,57 @@
+{
+  "translation": {
+    "dir": "ltr",
+    "home": {
+      "title": "Afbeeldingen converteren naar PDf",
+      "selectImage": "Selecteer Afbeelding",
+      "createPdf": "PDF maken",
+      "options": "Opties",
+      "optionsPage": {
+        "imageSlice": "Afbeeldingssegmenten",
+        "sliceImageInPages": "Afbeelding segmenteren in pagina's",
+        "withoutSlice": "Zonder plakjes",
+        "imageSizeType": "Type afbeeldingsgrootte",
+        "fixImageSize": "Afbeeldingsgrootte herstellen",
+        "fullPage": "Volledige pagina",
+        "normalImageSize": "Normale afbeeldingsgrootte",
+        "imagePadding": "Afbeelding opvulling",
+        "left": "Links",
+        "top": "Boven",
+        "right": "Rechts",
+        "bottom": "Bodem",
+        "save": "Redden"
+      },
+      "sidePanel": {
+        "settings": "Instellingen",
+        "language": "Talen",
+        "aboutUs": "Informatie",
+        "callUs": "Bel ons"
+      }
+    },
+    "result": {
+      "back": "none",
+      "preview": "Voorbeeld",
+      "save": "Redden",
+      "share": "Delen"
+    },
+    "callUs": {
+      "callUs": "Bel ons",
+      "title": "Bel ons",
+      "sendDirectMessageToUs": "Stuur ons een direct bericht",
+      "name": "Naam",
+      "phone": "Telefoonnummer",
+      "message": "Bericht",
+      "send": "Verzenden",
+      "errorPleaseTryAgainLater": "Fout, probeer het later opnieuw.",
+      "sendMessageSuccess": "Bericht verzenden geslaagd",
+      "weHaveYourMessage": "We hebben uw boodschap, we nemen zo snel mogelijk contact met u op"
+    },
+    "formBuilder": {
+      "require": "Dit veld verplicht"
+    },
+    "language": {
+      "title": "Taal selecteren",
+      "back": "Talen"
+    }
+  }
+}

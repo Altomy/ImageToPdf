@@ -1,0 +1,57 @@
+{
+  "translation": {
+    "dir": "ltr",
+    "home": {
+      "title": "Bilder in PDF konvertieren",
+      "selectImage": "auswählen",
+      "createPdf": "PDF erstellen",
+      "options": "Optionen",
+      "optionsPage": {
+        "imageSlice": "Bild-Slices",
+        "sliceImageInPages": "Slice-Bild in Seiten",
+        "withoutSlice": "Ohne Scheiben",
+        "imageSizeType": "Bildgrößentyp",
+        "fixImageSize": "Bildgröße korrigierene",
+        "fullPage": "Ganze Seite",
+        "normalImageSize": "Normale Bildgröße",
+        "imagePadding": "Bildauffüllung",
+        "left": "Links",
+        "top": "Nach oben",
+        "right": "Rechts",
+        "bottom": "Unteres",
+        "save": "Retten"
+      },
+      "sidePanel": {
+        "settings": "Einstellungen",
+        "language": "Sprachen",
+        "aboutUs": "Über uns",
+        "callUs": "Rufen Sie uns an"
+      }
+    },
+    "result": {
+      "back": "none",
+      "preview": "Vorschau",
+      "save": "Retten",
+      "share": "Freigeben"
+    },
+    "callUs": {
+      "callUs": "Rufen Sie uns an",
+      "title": "Rufen Sie uns an",
+      "sendDirectMessageToUs": "Senden Sie uns eine direkte Nachricht",
+      "name": "Name",
+      "phone": "Telefonnummer",
+      "message": "Nachricht",
+      "send": "Senden",
+      "errorPleaseTryAgainLater": "Fehler, Bitte versuchen Sie es später erneut.",
+      "sendMessageSuccess": "Nachricht erfolgreich senden",
+      "weHaveYourMessage": "Wir haben Ihre Nachricht, wir kontaktieren Sie schneller als möglich"
+    },
+    "formBuilder": {
+      "require": "Dieses Feld ist erforderlich"
+    },
+    "language": {
+      "title": "Sprache auswählen",
+      "back": "Sprachen"
+    }
+  }
+}

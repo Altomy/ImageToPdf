@@ -1,0 +1,57 @@
+{
+  "translation": {
+    "dir": "rtl",
+    "home": {
+      "title": "حول الصور الى PDF",
+      "selectImage": "اختر صورة",
+      "createPdf": "انشاء ملف PDF",
+      "options": "الاعدادات",
+      "optionsPage": {
+        "imageSlice": "فصل الصور",
+        "sliceImageInPages": "فصل الصور في صفحات متعدده",
+        "withoutSlice": "من غير فصل",
+        "imageSizeType": "نوع حجم الصور",
+        "fixImageSize": "اصلاح حجم الصور",
+        "fullPage": "صفحة كاملة",
+        "normalImageSize": "الحجم الطبيعي",
+        "imagePadding": "محاذاة الصور",
+        "left": "اليسار",
+        "top": "الاعلى",
+        "right": "اليمين",
+        "bottom": "الأسفل",
+        "save": "حفظ"
+      },
+      "sidePanel": {
+        "settings": "الاعدادات",
+        "language": "اللغة",
+        "aboutUs": "من نحن",
+        "callUs": "اتصل بنا"
+      }
+    },
+    "result": {
+      "back": "none",
+      "preview": "معاينة",
+      "save": "حفظ",
+      "share": "مشاركة"
+    },
+    "callUs": {
+      "callUs": "اتصل بنا",
+      "title": "اتصل بنا",
+      "sendDirectMessageToUs": "ارسل رسالة مباشرة لنا",
+      "name": "الأسم",
+      "phone": "رقم الهاتف",
+      "message": "الرسالة",
+      "send": "ارسال",
+      "errorPleaseTryAgainLater": "يوجد خطا الرجاء الأرسال مرة اخرى",
+      "sendMessageSuccess": "تم ارسال الرسالة بنجاح",
+      "weHaveYourMessage": "لقد استلمنا رسالتك سوف نقوم بالتواصل معك في اقرب وقت"
+    },
+    "formBuilder": {
+      "require": "هذا الحقل مطلوب"
+    },
+    "language": {
+      "title": "أختر لغة",
+      "back": "اللغات"
+    }
+  }
+}
