@@ -69,12 +69,6 @@ let Home: React.FC<propsTypes> = (props) => {
     await enableAnalytics();
   };
 
-  useEffect(() => {
-    setTimeout(() => {
-      requestPermission();
-    }, 500);
-  }, []);
-
   // ==== RETURN METHOD ==== //
   return (
     <Box flex={1}>
@@ -196,7 +190,7 @@ let Home: React.FC<propsTypes> = (props) => {
             alignItems={"center"}
             shadow={3}
             justifyContent={"center"}
-            onPress={() => {
+            onPress={async () => {
               if (imageBag.length === 0) {
                 toast.show({
                   title: "Please add at lease one image",
@@ -204,6 +198,7 @@ let Home: React.FC<propsTypes> = (props) => {
                 });
                 return;
               }
+              await requestPermission();
               props.navigation.navigate("Preview");
             }}
           >
